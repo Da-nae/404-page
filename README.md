@@ -1,5 +1,6 @@
 # 404-page
 Exercice for Becode training : create a fun 404 page !
+If you want to see the result, it's [here](https://da-nae.github.io/404-page/).
 
 ### **Who did this project ?**
 
